@@ -8218,7 +8218,6 @@ _xmlrpc.jsf
 /t-about.jsf
 /tabs.jsf
 /tac.jsf
-/jsf.jsf
 /tag.jsf
 /tagcloudgen.jsf
 /taglist.jsf

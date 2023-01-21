@@ -6362,7 +6362,6 @@ foldername
 folderpath
 folders
 foldmenu
-follow
 following
 followup
 fom
@@ -7249,7 +7248,6 @@ go
 goa
 goal
 gob
-goback
 goc
 god
 godashboard
@@ -7278,7 +7276,6 @@ goq
 gor
 gos
 got
-goto
 gotod
 gou
 gov
@@ -7932,7 +7929,6 @@ hip
 hiq
 hir
 his
-history
 hit
 hits
 hits_gt
@@ -17357,7 +17353,6 @@ red
 reddi
 redfi
 redir
-redirect
 redirect_hits
 redirection
 redirect_on
@@ -17621,7 +17616,6 @@ retries
 retry
 returl
 _return
-return
 returnaction
 returnID
 returnpage
@@ -21730,7 +21724,6 @@ URI
 urj
 urk
 _url
-url
 urL
 /URL
 URL

