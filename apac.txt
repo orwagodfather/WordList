@@ -12,7 +12,6 @@
 /httpd/logs/error.log
 /httpd/logs/error_log
 /logs/access.log
-/logs/access.log
 /logs/error.log
 /logs/error_log
 /access_log
@@ -11872,7 +11871,6 @@ images/theme-dark/help/defects/result.png
 images/theme-dark/help/fields/assignments.png
 images/theme-dark/help/fields/cases.png
 images/theme-dark/help/fields/index.html
-a167eb12322c6ed296030f3f750d29a6
 images/theme-dark/help/fields/properties.png
 images/theme-dark/help/fields/testResults.png
 images/theme-dark/help/getting_started/cases.png
@@ -12153,13 +12151,11 @@ images/theme-dark/support/fancybox/fancy_closebox.svg
 images/theme-dark/support/fancybox/fancy_left.svg
 images/theme-dark/support/fancybox/fancy_right.svg
 images/theme-dark/support/fancybox/fancy_shadow_e.png
-70f57a611b265f60ade1775169dab7b3
 images/theme-dark/support/fancybox/fancy_shadow_n.png
 images/theme-dark/support/fancybox/fancy_shadow_ne.png
 images/theme-dark/support/fancybox/fancy_shadow_nw.png
 images/theme-dark/support/fancybox/fancy_shadow_s.png
 images/theme-dark/support/fancybox/fancy_shadow_se.png
-5221cb77bb691b03ca21b9d29a3223e0
 images/theme-dark/support/fancybox/fancy_shadow_sw.png
 images/theme-dark/support/fancybox/fancy_shadow_w.png
 images/theme-dark/support/fancybox/fancy_title_left.svg
@@ -12306,7 +12302,6 @@ images/theme-modern/help/defects/result.png
 images/theme-modern/help/fields/assignments.png
 images/theme-modern/help/fields/cases.png
 images/theme-modern/help/fields/index.html
-a167eb12322c6ed296030f3f750d29a6
 images/theme-modern/help/fields/properties.png
 images/theme-modern/help/fields/testResults.png
 images/theme-modern/help/getting_started/cases.png
@@ -12597,13 +12592,11 @@ images/theme-modern/support/fancybox/fancy_closebox.svg
 images/theme-modern/support/fancybox/fancy_left.svg
 images/theme-modern/support/fancybox/fancy_right.svg
 images/theme-modern/support/fancybox/fancy_shadow_e.png
-70f57a611b265f60ade1775169dab7b3
 images/theme-modern/support/fancybox/fancy_shadow_n.png
 images/theme-modern/support/fancybox/fancy_shadow_ne.png
 images/theme-modern/support/fancybox/fancy_shadow_nw.png
 images/theme-modern/support/fancybox/fancy_shadow_s.png
 images/theme-modern/support/fancybox/fancy_shadow_se.png
-5221cb77bb691b03ca21b9d29a3223e0
 images/theme-modern/support/fancybox/fancy_shadow_sw.png
 images/theme-modern/support/fancybox/fancy_shadow_w.png
 images/theme-modern/support/fancybox/fancy_title_left.svg
