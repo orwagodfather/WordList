@@ -1,4 +1,3 @@
-ROOT
 ___404.jsf
 __idx__.jsf
 _config.inc.jsf
