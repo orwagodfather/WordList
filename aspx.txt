@@ -1,4 +1,3 @@
-ROOT
 /frame_en.asp
 /yonetim/pass.asp
 /wan_connected.asp
