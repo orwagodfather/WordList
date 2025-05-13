@@ -1,4 +1,3 @@
-ROOT
 /api/jsonws/expandocolumn/update-column
 /carbon/info/comment-ajaxprocessor.jsp
 /carbon/extensions/deleteExtension-ajaxprocessor.jsp
