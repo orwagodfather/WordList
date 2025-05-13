@@ -1,6 +1,7 @@
 /.htaccess
 /.htaccess.bak
 /.htpasswd
+/.env
 /.meta
 /.web
 /apache/logs/access.log
