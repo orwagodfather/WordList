@@ -33,7 +33,7 @@
 /goform/formWlAc
 /admin.php/Plugins/index.html
 /admin/sauvegarde/download.php
-/centreon/include/monitoring/acknowlegement/xml/broker/makeXMLForAck.php
+/include/monitoring/acknowlegement/xml/broker/makeXMLForAck.php
 /index.php/main/cms/login
 /index.php/main/cms/forgotPassword
 /index.php/main/cms/forgotPasswordProcess
