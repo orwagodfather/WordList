@@ -4,6 +4,7 @@
 /cgi-bin/a1stats/a1disp3.cgi
 /cgi-bin/a1stats/a1disp4.cgi
 /cgi-bin/admin.cgi
+/cgi-bin/adinm.cgi
 /cgi-bin/adsl.cgi
 /cgi-bin/auktion.cgi
 /cgi-bin/bbs/read.cgi
