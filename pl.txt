@@ -1,4 +1,6 @@
 spellchecker.pl
+app.pl
+admin.pl
 basexml.pl
 commands.pl
 io.pl
