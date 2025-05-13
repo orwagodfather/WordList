@@ -1,3 +1,13 @@
+_profiler/open
+_profiler
+FIS.CAM.UI/en-US/insstage
+FIS.CAM.UI
+insstage
+en-US
+wf
+myapps
+paos_im
+paos_im_uv.aspx
 apps/phpmyadmin/setup/index.php
 _0
 0
