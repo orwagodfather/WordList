@@ -81,6 +81,7 @@ _cat/ml/data_frame/analytics
 _cat/ml/trained_models
 _cat/nodeattrs
 _cat/nodes
+_cat/users
 _cat/pending_tasks
 _cat/plugins
 _cat/recovery
