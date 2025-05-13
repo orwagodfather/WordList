@@ -1,5 +1,6 @@
 /WEB-INF/struts-config.xml
 /WEB-INF/config.xml
+/WEB-INF/admin.xml
 /WEB-INF/web.xml
 /WEB-INF/faces-config-Calendar.xml
 /WEB-INF/faces-config-ColorPicker.xml
