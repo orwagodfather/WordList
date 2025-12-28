@@ -20236,6 +20236,7 @@
 /.config.php
 /.env
 /.git
+/.gitmodules
 /.git.php
 /.git/config
 /.git/HEAD
